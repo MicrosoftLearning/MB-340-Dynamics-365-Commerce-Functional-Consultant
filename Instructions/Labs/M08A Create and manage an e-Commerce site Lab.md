@@ -84,6 +84,7 @@ Directory security group to use for site administrators.
 	5. Select the **e-Commerce** tab.
 	6. Select the **e-Commerce site builder** link.
 	7. Copy and save the url. It will look something like: https://manage.commerce.dynamics.com/digitalselling/sites
+	**Note:** If you get a permissions error in the site builder, reach out to your authorized lab hoster.
 
 
 2.  Select the **Fabrikam** site to open the site setup dialog box.
