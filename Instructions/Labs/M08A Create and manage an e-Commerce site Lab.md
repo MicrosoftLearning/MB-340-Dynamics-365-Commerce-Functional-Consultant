@@ -93,7 +93,8 @@ Directory security group to use for site administrators.
     deployed through LCS.
 
 4.  In the **Select a default channel** field, select the new online channel you
-    created in Module 8.
+    created in the channel lab in this module. It should be **Adventure Works
+    online store**.
 
 5.  In the **Select a default language** field, select **en-us**.
 
@@ -139,7 +140,7 @@ created in Task 1.
 
 
 
-8.  Select the **Site Settings** drop-down list and then select the **Design**.
+8.  Select the **Site Settings** drop-down list .
     Use this page to upload CSS theme overrides for the site.  
       
     
@@ -180,7 +181,7 @@ to the media library.
 
 
 
-1.  Navigate to the category and product details page. Verify that the images
+1.  Navigate to the product details page. Verify that the images
     load up and change based on the size variant that is selected. 
 
 
@@ -214,7 +215,7 @@ to the media library.
 
 
 1.  Create a link for the favicon image by using HTML markup. You can use a text
-    editor to create the link. Add the public URL from step 10 as the value for
+    editor like Notepad to create the link. Add the public URL from step 10 as the value for
     the href attribute. You will use this link in step 15.
 
 
