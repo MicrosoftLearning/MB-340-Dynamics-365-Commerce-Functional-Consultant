@@ -185,7 +185,7 @@ orders have been assigned to the expected locations:
 
 5.  Select **Create**.
 
-6.  In the name field, enter a name the rule.
+6.  In the name field, enter a name for the rule.
 
 7.  Select **Save**.
 
@@ -258,7 +258,7 @@ orders have been assigned to the expected locations:
 
 3.  In the Company field, select **USRT** from the list.
 
-4.  In the Mode of delivery field, select **Standard - Standard Service (retail
+4.  In the Mode of delivery field, select **Standard - Standard Service (retailer
     choice)** from the list.
 
 5.  Select **Save**.
@@ -290,15 +290,15 @@ orders have been assigned to the expected locations:
 5.  On the action pane, select **Create Lines** and then select **On-hand** from
     the context menu.
 
-6.  Select the **Warehouse** check box.
+6.  Select the **Warehouse** slider.
 
-7.  Select the **Location** check box.
+7.  Select the **Location** slider.
 
 8.  Expand the **Records to include** fast tab.
 
 9.  Select **Filter**.
 
-10. Locate the row where the Field value is **Item number.**
+10. Locate the row where the Field value is  Items/Items/**Item number.**
 
 11. In the Criteria field, enter: **91065,91066,91067,91068**.
 
@@ -314,31 +314,33 @@ orders have been assigned to the expected locations:
 
 #### Task 2 – Enter data for tests
 
-1.  Expand the Journal lines fast tab.
+1.  Expand the Journal lines fast tab. You should have 12 lines, for all combinations of the above 4 items and above 3 warehouses. 
 
-2.  Select line 1. In the Counted field, enter **1000**.
+2. Make sure you have On-hand (quantity) for each line; if not, enter it. For example:
 
-3.  Select line 2. In the Counted field, enter **10**.
-
-4.  Select line 3. In the Counted field, enter **5**.
-
-5.  Select line 4. In the Counted field, enter **800**.
-
-6.  Select line 5. In the Counted field, enter **0**.
-
-7.  Select line 6. In the Counted field, enter **10**.
-
-8.  Select line 7. In the Counted field, enter **1200**.
-
-9.  Select line 8. In the Counted field, enter **1**.
-
-10. Select line 9. In the Counted field, enter **2**.
-
-11. Select line 10. In the Counted field, enter **500**.
-
-12. Select line 11. In the Counted field, enter **10**.
-
-13. Select line 12. In the Counted field, enter **5**.
+	2.  Select line 1. In the Counted field, enter **1000**.
+	
+	3.  Select line 2. In the Counted field, enter **10**.
+	
+	4.  Select line 3. In the Counted field, enter **5**.
+	
+	5.  Select line 4. In the Counted field, enter **800**.
+	
+	6.  Select line 5. In the Counted field, enter **0**.
+	
+	7.  Select line 6. In the Counted field, enter **10**.
+	
+	8.  Select line 7. In the Counted field, enter **1200**.
+	
+	9.  Select line 8. In the Counted field, enter **1**.
+	
+	10. Select line 9. In the Counted field, enter **2**.
+	
+	11. Select line 10. In the Counted field, enter **500**.
+	
+	12. Select line 11. In the Counted field, enter **10**.
+	
+	13. Select line 12. In the Counted field, enter **5**.
 
 
 14. On the action pane, select **Post**.
