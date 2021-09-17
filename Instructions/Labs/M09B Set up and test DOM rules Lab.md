@@ -118,7 +118,7 @@ orders have been assigned to the expected locations:
 
 #### Task 1 – Create a DOM rule for partial orders
 
-1.  Launch Dynamics 365 Commerce.
+1.  Launch Dynamics 365 Commerce in the **USRT** company.
 
 2.  Navigate to Retail and Commerce \> Distributed order management \> Setup \>
     Manage rules or search for **Manage rules** by using the search function.
