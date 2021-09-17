@@ -151,7 +151,7 @@ orders have been assigned to the expected locations:
 
 3.  Select **New**.
 
-4.  In the DOM rules field, select **Maximum orders rule**.
+4.  In the DOM rules field, select **Maximum orders rule** or **Maximum order rules for storage**.
 
 
 5.  Select **Create**.
