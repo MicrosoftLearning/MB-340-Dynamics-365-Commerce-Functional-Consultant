@@ -162,7 +162,7 @@ to the media library.
 
 
 1.  In the files dialog, navigate to the directory that contains assets for
-    Adventure Works. This may be found at: <https://aka.ms/MB340LabResources>.
+    Adventure Works. Your instructor can provide these files to you.
 
 
 2.  Select the four backpack images.
